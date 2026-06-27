@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hey there! my self shailesh sharma ,a Experienced game developer in mobile game development using
+my self shailesh sharma ,a Experienced game developer in mobile game development using
 Cocos2d-x and Cocos Creator and unity engine.
 
 
